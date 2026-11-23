@@ -1,0 +1,11 @@
+AtmosHero · ODS 13: Acción por el clima
+Proyecto académico estudiantil. No ofrece mediciones reales ni cálculo de huella de carbono.
+Los datos del gráfico "Emisiones por categoría" son de demostración.
+
+Iconos de Facebook, Instagram y YouTube: Simple Icons v15.
+https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
+Las marcas pertenecen a sus titulares; no implican afiliación.
+
+Logo y favicon: SVG original del proyecto.
+Fotografías de la carpeta imagenes/: material del equipo.
+Video de referencia (recursos.html): se inserta desde YouTube; no se descarga ni se redistribuye.
